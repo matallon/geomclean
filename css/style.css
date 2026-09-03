@@ -38,8 +38,9 @@ p{
 }
 
 div.grid{
-	width: 100%;
+	width: 70%;
 	column-count: 2;
+	margin: auto;
 }
 
 .column {
@@ -54,7 +55,11 @@ img{
 }
 
 .parabox{
-	background-color: #b7b7a4;
+	width: 250%;
+	toppadding: 5%;
+	color: #6b705c;
+	background-image: linear-gradient(#e6e6e6 0%, #e6e6e6 100%);
+  	border-radius: 30px;
 }
 
 
